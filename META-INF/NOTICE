@@ -1,0 +1,8 @@
+=============
+  IMPORTANT
+=============
+
+This jar is a workaround until the ant classloader supports 
+Java 9+ multi-release jars. 
+
+See https://issues.openbravo.com/view.php?id=39663 for more info.

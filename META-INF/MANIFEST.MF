@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_191 (Oracle Corporation)
+Bundle-Name: Apache Log4j API no MRJAR support
+Specification-Title: Apache Log4j API no MRJAR support
+Bundle-License: https://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: Apache Log4j patch for no Multi-release jar (MRJAR) support
+Implementation-URL: https://github.com/katanagari7c1/log4j-api-no-mrjar
+Bundle-Version: 2.11.1
+Implementation-Version: 2.11.1
+Log4jReleaseVersion: 2.11.1
+Specification-Version: 2.11.1
+
